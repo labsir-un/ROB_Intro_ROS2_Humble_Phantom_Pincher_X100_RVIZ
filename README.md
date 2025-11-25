@@ -9,7 +9,7 @@
 
 <h1>Introducción a Robots Phantom Pincher X100</h1>
 
-<h2>Guía 04 - Uso Básico de los Robots Phantom Pincher X100 en ROS 2 Humble</h2>
+<h2>Guía 05 - Visualización y Movimiento del Robot Phantom Pincher X100 en ROS 2 Humble - RVIZ</h2>
 
 
 <h4>Pedro Fabián Cárdenas Herrera<br>
